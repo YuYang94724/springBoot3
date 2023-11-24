@@ -16,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="boot3-02-demo.main" target="17" />
       <module name="boot3-02-demo.test" target="17" />
+      <module name="boot3-08-robot-starter" target="17" />
       <module name="core" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -25,6 +26,7 @@
       <module name="boot3-02-demo" options="-parameters" />
       <module name="boot3-07-core" options="-parameters" />
       <module name="boot3-08-robot" options="-parameters" />
+      <module name="boot3-08-robot-starter" options="-parameters" />
       <module name="core" options="-parameters" />
     </option>
   </component>
